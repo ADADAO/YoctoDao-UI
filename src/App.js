@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import '@emurgo/cardano-serialization-lib-browser';
+
+useEffect(() => {
+  async function start() {
+    const wasm = await import('@emurgo/cardano-serialization-lib-browser');
+  }
+  start();
+}, []);
 
 function App() {
   return (
