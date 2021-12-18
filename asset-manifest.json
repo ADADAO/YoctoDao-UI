@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yoctodao-ui/static/css/main.073c9b0a.css",
-    "main.js": "/yoctodao-ui/static/js/main.526edec8.js",
+    "main.js": "/yoctodao-ui/static/js/main.05768825.js",
     "static/js/787.7b1cbaae.chunk.js": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js",
     "index.html": "/yoctodao-ui/index.html",
     "main.073c9b0a.css.map": "/yoctodao-ui/static/css/main.073c9b0a.css.map",
-    "main.526edec8.js.map": "/yoctodao-ui/static/js/main.526edec8.js.map",
+    "main.05768825.js.map": "/yoctodao-ui/static/js/main.05768825.js.map",
     "787.7b1cbaae.chunk.js.map": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.526edec8.js"
+    "static/js/main.05768825.js"
   ]
 }
