@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import '@emurgo/cardano-serialization-lib-nodejs';
 
 function App() {
   return (
@@ -8,6 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <p>
+          Testing import success. WOOO.
         </p>
         <a
           className="App-link"
