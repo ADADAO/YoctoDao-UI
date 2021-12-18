@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import '@emurgo/cardano-serialization-lib-nodejs';
+import '@emurgo/cardano-serialization-lib-browser';
 
 function App() {
   return (
