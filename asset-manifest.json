@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.0c1bf304.js",
-    "static/js/787.7b1cbaae.chunk.js": "/static/js/787.7b1cbaae.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.0c1bf304.js.map": "/static/js/main.0c1bf304.js.map",
-    "787.7b1cbaae.chunk.js.map": "/static/js/787.7b1cbaae.chunk.js.map"
+    "main.css": "/yoctodao-ui/static/css/main.073c9b0a.css",
+    "main.js": "/yoctodao-ui/static/js/main.a2e2476b.js",
+    "static/js/787.7b1cbaae.chunk.js": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js",
+    "static/media/logo.svg": "/yoctodao-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yoctodao-ui/index.html",
+    "main.073c9b0a.css.map": "/yoctodao-ui/static/css/main.073c9b0a.css.map",
+    "main.a2e2476b.js.map": "/yoctodao-ui/static/js/main.a2e2476b.js.map",
+    "787.7b1cbaae.chunk.js.map": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c1bf304.js"
+    "static/js/main.a2e2476b.js"
   ]
 }
