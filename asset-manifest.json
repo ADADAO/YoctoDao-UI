@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/yoctodao-ui/static/css/main.073c9b0a.css",
-    "main.js": "/yoctodao-ui/static/js/main.a2e2476b.js",
-    "static/js/787.7b1cbaae.chunk.js": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js",
-    "static/media/logo.svg": "/yoctodao-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/js/0.e96cd44f.chunk.js": "/yoctodao-ui/static/js/0.e96cd44f.chunk.js",
+    "efe0eb0e2c6f7ba0ad5e.module.wasm": "/yoctodao-ui/efe0eb0e2c6f7ba0ad5e.module.wasm",
+    "static/js/0.e96cd44f.chunk.js.map": "/yoctodao-ui/static/js/0.e96cd44f.chunk.js.map",
+    "static/js/1.14776286.chunk.js": "/yoctodao-ui/static/js/1.14776286.chunk.js",
+    "static/js/1.14776286.chunk.js.map": "/yoctodao-ui/static/js/1.14776286.chunk.js.map",
+    "main.css": "/yoctodao-ui/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/yoctodao-ui/static/js/main.3ce2aafa.chunk.js",
+    "main.js.map": "/yoctodao-ui/static/js/main.3ce2aafa.chunk.js.map",
+    "runtime-main.js": "/yoctodao-ui/static/js/runtime-main.eb9046d1.js",
+    "runtime-main.js.map": "/yoctodao-ui/static/js/runtime-main.eb9046d1.js.map",
+    "static/js/4.24608390.chunk.js": "/yoctodao-ui/static/js/4.24608390.chunk.js",
+    "static/js/4.24608390.chunk.js.map": "/yoctodao-ui/static/js/4.24608390.chunk.js.map",
+    "static/js/5.79293e94.chunk.js": "/yoctodao-ui/static/js/5.79293e94.chunk.js",
+    "static/js/5.79293e94.chunk.js.map": "/yoctodao-ui/static/js/5.79293e94.chunk.js.map",
     "index.html": "/yoctodao-ui/index.html",
-    "main.073c9b0a.css.map": "/yoctodao-ui/static/css/main.073c9b0a.css.map",
-    "main.a2e2476b.js.map": "/yoctodao-ui/static/js/main.a2e2476b.js.map",
-    "787.7b1cbaae.chunk.js.map": "/yoctodao-ui/static/js/787.7b1cbaae.chunk.js.map"
+    "precache-manifest.14cedd78b6b7204427b4526ae8e56fc2.js": "/yoctodao-ui/precache-manifest.14cedd78b6b7204427b4526ae8e56fc2.js",
+    "service-worker.js": "/yoctodao-ui/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/yoctodao-ui/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/4.24608390.chunk.js.LICENSE.txt": "/yoctodao-ui/static/js/4.24608390.chunk.js.LICENSE.txt",
+    "static/js/5.79293e94.chunk.js.LICENSE.txt": "/yoctodao-ui/static/js/5.79293e94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a2e2476b.js"
+    "static/js/runtime-main.eb9046d1.js",
+    "static/js/4.24608390.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.3ce2aafa.chunk.js"
   ]
 }

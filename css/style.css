@@ -1,0 +1,222 @@
+.body {
+    min-height: 100vh;
+    /* overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100px; */
+}
+
+.header-a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: #FFFCFC !important;
+}
+
+body {
+    color: #FFFCFC !important;
+}
+
+.alink {
+    /* background-color: red; */
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.alink {
+    color: #FFFCFC;
+}
+
+.nav-link {
+    color: #FFFCFC !important;
+}
+
+.navbar-dark {
+    background-color: black !important;
+}
+
+.alink ul {
+    float: left;
+}
+
+.nav-container .start {
+    font-weight: 600;
+    color: #FFFCFC;
+}
+
+.navbar-nav>li {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.start {
+    border-radius: 9px;
+    border-width: 0.1em;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 30px;
+}
+
+.start:hover {
+    color: #FFFCFC;
+}
+
+.brand {
+    font-weight: bolder;
+}
+
+.bottom-top-pad-ten {
+    padding-bottom: 10vh;
+    padding-top: 10vh;
+}
+
+.anarchy-logo{
+    position: relative;
+    margin-left: 20px;
+}
+
+
+img {
+    border-radius: 3px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.copyright-text {
+    width:100%;
+    margin-bottom: 10px;
+} 
+
+/* @media (max-width: 768px) {
+    .copyright-text {
+        left: 10vw;
+    }
+} */
+@media (max-width: 768px) {
+    .talk {
+        padding-top:0px!important
+    }
+}
+@media (max-width: 768px) {
+    .mobilePad-up {
+        padding-top: 10vh;
+    }
+}
+#roadmap {
+    background-color: #000!important;
+}
+
+.navbar-transparent-blck {
+    background-color: rgba(0,0,0,0.15)!important;
+}
+
+/* .container {
+    margin-top: 10vh;
+}
+.container.nav-container {
+    margin-top: 0!important;
+} */
+
+.buy {
+    background-color: #191d28;
+}
+
+.content {
+    /* margin-top: 0px; */
+    min-height: 95vh;
+}
+
+.anarchy-art-quote{
+    min-height: 25vh;
+}
+
+.rarity-section {
+    background-image: url('/images/background1.png');
+    min-height: 30vh;
+
+    box-shadow: inset 0 0 0 50vw rgb(0 0 0 / 80%);
+}
+
+.talk {
+    padding-top: 100px;
+}
+
+.talk>h1 {
+    font-size: 60px !important;
+    font-weight: bold;
+    color: black;
+}
+
+.showcase-img {
+    background-image: url('../images/reading-woman.png');
+    background-color: #F4F5FF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+}
+
+.quote-section {
+    background-color: #1a1a1a;
+}
+
+.no-bold {
+    font-weight: 100;
+}
+
+.bold-two {
+    font-weight: 200;
+}
+
+.bold-three {
+    font-weight: 300;
+}
+
+.bold-four {
+    font-weight: 400;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.start-two {
+    background-color: white;
+    color: black;
+    margin-left: 0;
+    font-weight: 600;
+}
+
+.det-ails {
+    margin-top: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.icon-bra-ails {
+    padding-bottom: 30px;
+}
+
+.icon-ails {
+    color: #3F3D56 !important;
+    font-size: 40px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #000;
+    padding-top: 25px;
+    color: #FFFCFC;
+    position: absolute;
+    width: 100%;
+}
+
+#root {
+    background-color: #000;
+}
+
+.author {
+    text-decoration: none !important;
+}
