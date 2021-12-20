@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-spacebud-js",
+    "path": "/explore/spacebud/8080/",
+    "result": {"pageContext":{"spacebud":{"id":"8080","image":"https://ipfs.blockfrost.dev/ipfs/QmXHnNVXbBnqgprs4LGxqt5v3cFFXdg6T4vCDBBgPx7wkq","type":"Lion","gadgets":["Chestplate","Belt","X-Ray","Anchor"]}}},
+    "staticQueryHashes": []}

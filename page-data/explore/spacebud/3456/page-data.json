@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-spacebud-js",
+    "path": "/explore/spacebud/3456/",
+    "result": {"pageContext":{"spacebud":{"id":"3456","image":"https://ipfs.blockfrost.dev/ipfs/QmcxuqyZ2igsGVeg13jiqioVTLWwG7Zzim7jxfdjT9HRSN","type":"Robot","gadgets":["Chestplate","Belt","Covered Helmet","Watch","Hockey Stick"]}}},
+    "staticQueryHashes": []}
