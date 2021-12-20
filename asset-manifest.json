@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/yoctodao-ui/static/js/main.e49f808a.js",
+    "index.html": "/yoctodao-ui/index.html",
+    "main.e49f808a.js.map": "/yoctodao-ui/static/js/main.e49f808a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e49f808a.js"
+  ]
+}
