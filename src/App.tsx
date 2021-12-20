@@ -2,7 +2,21 @@ import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import WalletContext from './utils/WalletContext';
-import CardanoWalletConnect from './components/CardanoWalletConnect';
+import { Suspense, lazy } from 'react';
+
+const CardanoWalletConnect = lazy(async () => import('./components/CardanoWalletConnect'));
+
+function ConnectWallet() {
+  return (
+    <div>
+      <Suspense fallback={<div>Loading...</div>}>
+        <CardanoWalletConnect />
+      </Suspense>
+      
+    </div>
+  );
+}
+
 
 function App() {
   const [state, setState] = useState({
@@ -23,7 +37,7 @@ function App() {
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
         </header> */}
-        <CardanoWalletConnect />
+        <ConnectWallet />
       </div>
     </WalletContext.Provider>
   );
