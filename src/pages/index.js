@@ -1,4 +1,7 @@
-import * as React from "react"
+import { withPrefix } from "gatsby";
+import * as React from "react";
+//import Market from "../cardano/market";
+// import * as secrets from "../secrets";
 
 // styles
 const pageStyles = {
@@ -124,6 +127,18 @@ const links = [
     color: "#663399",
   },
 ]
+
+/* const loadMarket = async () => {
+  market.current = new Market(
+    {
+      base: "https://cardano-mainnet.blockfrost.io/api/v0",
+      projectId: secrets.PROJECT_ID,
+    },
+    "addr1qxpxm8a0uxe6eu2m6fgdu6wqfclujtzyjdu9jw0qdxfjaz02h5ngjz7fftac5twlxj6jha4meenh6476m5xdwmeyh4hq0zeknx" // This should be the script address.
+  );
+  await market.current.load();
+  loadSpaceBudData();
+}; */
 
 // markup
 const IndexPage = () => {
